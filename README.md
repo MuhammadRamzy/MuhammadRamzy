@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **My Personal Cloud System and server using Raspberry pi**
 
-- 🌱 I’m currently learning **Advanced thisngs in Python and cyber security . I'm also a +1 student .**
+- 🌱 I’m currently learning **Advanced things in Python and cyber security . I'm also a +1 student .**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MuhammadRamzy](https://github.com/MuhammadRamzy)
 
