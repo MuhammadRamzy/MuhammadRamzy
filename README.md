@@ -1,1 +1,1 @@
-A passionate developer from India , I love Python and some other language.
+A passionate developer from India ,love Python and some other language.
